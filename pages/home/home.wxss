@@ -1,0 +1,21 @@
+.home-banner1{
+  height: 20rpx;
+  width: 30rpx;
+}
+.containerdown{
+  background-color: #F5F5F5;
+  height: 17vh;
+}
+
+.down1{
+  margin-top:30rpx;
+  margin-left: 30rpx;
+  height: 150rpx;
+  width:120rpx;
+}
+.down2{
+  margin-top:30rpx;
+  margin-left: 30rpx;
+  height: 150rpx;
+  width:155rpx;
+}

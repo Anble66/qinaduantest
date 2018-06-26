@@ -1,0 +1,41 @@
+.container1{
+  background-color: #F5F5F5;
+  height: 80vh;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-banner1{
+  margin-top: 0rpx;
+  width: 650rpx;
+  height: 105rpx;
+}
+
+.about-banner2{
+  margin-top:60rpx;
+  width:200rpx;
+  height: 200rpx;
+}
+
+text{
+  /*margin-left: -400rpx;*/
+  margin-top:30rpx;
+}
+.nav-hover{
+c
+  height: 200rpx;
+}
+
+text{
+  /*margin-left: -400rpx;*/
+  margin-top:30rpx;
+}
+.nav-hover{
+  color:#09bb07;
+}
+
+.container2{
+  margin-bottom: 200rpx;
+}

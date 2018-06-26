@@ -1,0 +1,28 @@
+{
+  "pages":[
+    "pages/myinfor/myinfor",
+    "pages/home/home",
+    "pages/about/about",
+    "pages/modification/modification"
+    ],
+    "windows":{
+      "backgroundTextStyle":"light",
+      "navigationBarBackgroundColor":"#fff",
+      "navigationBarTitleText":"用户登录",
+      "navigationBarTextStyle":"black"
+    },
+    "tabBar":{
+      "list":[{
+        "pagePath":"pages/home/home",
+        "text":"首页"
+      },{
+        "pagePath":"pages/myinfor/myinfor",
+        "text":"login"
+      },
+      {
+        "pagePath": "pages/modification/modification",
+        "text": "个人中心"
+      }]
+    }
+
+}

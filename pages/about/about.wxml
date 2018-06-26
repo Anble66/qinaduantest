@@ -1,0 +1,11 @@
+<view>
+   <image class='about-banner1' src="/image/head1.png"></image>
+</view>
+<view class='container1'>
+  <image class='about-banner2' src="/image/权益小拳头1.png"></image>
+  <text>性别:</text>
+  <text>昵称:</text>
+</view>
+<view  class='container2'>
+    <text>点此</text><navigator style='display:inline;' url='/pages/modification/modification' open-type="redirect" hover-class='nav-hover'>修改</navigator> <text>个人信息</text>
+ </view>

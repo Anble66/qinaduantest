@@ -1,0 +1,9 @@
+<view>
+   <image class='about-banner1' src="/image/head1.png"></image>
+   <image class='home-banner1' bindtap='xiala' src="/image/home下拉.png"></image>
+</view>
+<view class='containerdown' >
+   <image class='down1' src="/image/下拉观点圈.png"></image>
+   <image class='down1' src="/image/下拉拾物圈.png"></image>
+   <image class='down2' src="/image/下拉敬请期待.png"></image>
+</view>
