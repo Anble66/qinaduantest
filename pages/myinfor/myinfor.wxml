@@ -1,8 +1,26 @@
 <view>
    <image class='about-banner1' src="/image/head1.png"></image> 
-   <image class='login-1' src='/image/registlogo.png'></image> 
 </view>
 
+<view class="loginswipcontainer">
+
+<swiper indicator-dots="true" indicator-color="#FFFAFA" indicator-active-color="#20B2AA" autoplay="true" interval="3000" duration="1000" circular="true" style="width:750rpx">
+
+    <swiper-item>
+      <image src="/image/registlogo.png" class="slide-image" />
+    </swiper-item>
+
+     <swiper-item>
+      <image src="/image/个人中心-1.png" class="slide-image" style="width:750rpx  height:380rpx"/>
+    </swiper-item>
+
+    <swiper-item>
+      <image src="/image/registlogo.png" class="slide-image" style="width:750rpx  height:380rpx"/>
+    </swiper-item>
+
+</swiper>
+
+</view>
 
 <view class='mcontainer'>
   <view class="item">

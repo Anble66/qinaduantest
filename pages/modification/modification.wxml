@@ -1,9 +1,8 @@
 <view>
-   <image class='about-banner1' src="/image/head1.png"></image>
+  <image class='about-banner1' src="/image/head1.png"></image>
 </view>
-<view class="index-container">
-  <image scr="/image/个人中心-1.png"></image>
-    <view class="nickname">
-      Anble
-    </view>
+
+<view class="usercontainer">
+
+
 </view>
